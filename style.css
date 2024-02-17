@@ -477,10 +477,10 @@ img {
 
 
 
-@media(max-width : 800px) {
+@media(max-width :800px) {
 
     .container{
-        width:99%;
+        width:97%;
     }
     .shlok .one {
         font-size: 12px;
