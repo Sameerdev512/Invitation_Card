@@ -540,7 +540,7 @@ img {
     }
 
     .second_line {
-        width: 65vw;
+        width: 85vw;
         margin-top: 25px;
         margin-bottom: -20px;
     }
@@ -573,7 +573,7 @@ img {
     }
 
     .fifth_line{
-        width:60vw;
+        width:10vw;
         margin-top:10px;
     }
 
@@ -639,5 +639,9 @@ img {
 
     .message_2{
         margin-top: -13px;
+    }
+
+    .sixth_line{
+        width:90%;
     }
 }
